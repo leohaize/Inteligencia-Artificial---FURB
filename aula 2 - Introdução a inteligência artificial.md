@@ -1,4 +1,4 @@
-Introdução à Inteligência Artificial
+### Introdução à Inteligência Artificial
 A Inteligência Artificial (IA) é um campo da computação voltado ao desenvolvimento de sistemas capazes de simular habilidades humanas, como raciocínio, aprendizado, tomada de decisão e reconhecimento de padrões. Seu objetivo é automatizar tarefas e resolver problemas de forma eficiente, utilizando dados e algoritmos.
 Principais formas de Inteligência Artificial
 
