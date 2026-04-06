@@ -4,7 +4,7 @@
 códigos utilizando o sistema de controle Git. Ele é utilizado
 por desenvolvedores para colaboração, organização de projetos e construção de portfólios.
 
-⚙️ Conceitos fundamentais
+### ⚙️ Conceitos fundamentais
 
 🔹Repositório (Repository)
 Espaço onde ficam armazenados os arquivos de um projeto.
@@ -28,7 +28,7 @@ Envio das alterações locais para o GitHub.
 Atualização do repositório local com mudanças do repositório remoto.
 
 
-  🔷 Fluxo básico de uso
+ ### 🔷 Fluxo básico de uso
 
 🔹Criar um repositório no GitHub
 Adicionar arquivos ao projeto.
@@ -36,7 +36,7 @@ Realizar commits para registrar mudanças.
 Enviar (push) para o repositório remoto.
 Atualizar (pull), quando necessário.
 
-  🔷 Colaboração
+###  🔷 Colaboração
 
 O GitHub permite trabalho em equipe através de:
 
@@ -55,7 +55,7 @@ Manter commits organizados e com mensagens descritivas
 Estruturar pastas de forma lógica
 Atualizar o projeto com frequência.
 
-  🔷 Importância do GitHub
+ ### 🔷 Importância do GitHub
 
 🔹Funciona como portfólio profissional
 Facilita o trabalho em equipe
