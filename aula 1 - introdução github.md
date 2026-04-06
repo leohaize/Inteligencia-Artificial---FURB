@@ -1,4 +1,4 @@
-                            ##  🔷O que é o GitHub?🔷
+##                             🔷O que é o GitHub?🔷
 
 🔹 O GitHub é uma plataforma baseada em nuvem que permite armazenar, versionar e compartilhar
 códigos utilizando o sistema de controle Git. Ele é utilizado
