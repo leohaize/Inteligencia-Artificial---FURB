@@ -4,7 +4,7 @@
 códigos utilizando o sistema de controle Git. Ele é utilizado
 por desenvolvedores para colaboração, organização de projetos e construção de portfólios.
 
-⚙️ #Conceitos fundamentais
+⚙️ Conceitos fundamentais
 
 🔹Repositório (Repository)
 Espaço onde ficam armazenados os arquivos de um projeto.
