@@ -41,10 +41,13 @@ Atualizar (pull), quando necessário.
 O GitHub permite trabalho em equipe através de:
 
 🔹Pull Requests (PRs) → Solicitação de revisão antes de integrar alterações
+
 🔹Issues → Registro de tarefas, bugs ou melhorias
+
 🔹Forks → Cópias de projetos para modificações independentes
 
-📁 Organização e boas práticas
+
+### 📁 Organização e boas práticas
 
 🔹- Utilizar nomes claros nos repositórios e arquivos
 Criar um arquivo README.md explicando o projeto
