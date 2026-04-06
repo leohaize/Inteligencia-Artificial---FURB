@@ -24,10 +24,10 @@ Atualização do repositório local com mudanças do repositório remoto.
   🔷 Fluxo básico de uso
 
 🔹Criar um repositório no GitHub
-Adicionar arquivos ao projeto
-Realizar commits para registrar mudanças
-Enviar (push) para o repositório remoto
-Atualizar (pull) quando necessário
+Adicionar arquivos ao projeto.
+Realizar commits para registrar mudanças.
+Enviar (push) para o repositório remoto.
+Atualizar (pull), quando necessário.
 
   🔷 Colaboração
 
@@ -43,11 +43,11 @@ O GitHub permite trabalho em equipe através de:
 Criar um arquivo README.md explicando o projeto
 Manter commits organizados e com mensagens descritivas
 Estruturar pastas de forma lógica
-Atualizar o projeto com frequência
+Atualizar o projeto com frequência.
 
   🔷 Importância do GitHub
 
 🔹Funciona como portfólio profissional
 Facilita o trabalho em equipe
 Permite controle total do histórico do projeto
-É amplamente utilizado no mercado de tecnologia
+É amplamente utilizado no mercado de tecnologia.
