@@ -4,22 +4,29 @@
 códigos utilizando o sistema de controle Git. Ele é utilizado
 por desenvolvedores para colaboração, organização de projetos e construção de portfólios.
 
-⚙️ Conceitos fundamentais
+#⚙️ Conceitos fundamentais
 
 🔹Repositório (Repository)
 Espaço onde ficam armazenados os arquivos de um projeto.
+
 🔹Commit
 Registro de uma alteração feita no projeto, funcionando como um “salvamento com histórico”.
+
 🔹Branch
 Versão paralela do projeto usada para desenvolver funcionalidades sem afetar a principal.
+
 🔹Merge
 Processo de unir alterações de diferentes branches.
+
 🔹Clone
 Cópia de um repositório remoto para o computador local.
+
 🔹Push
 Envio das alterações locais para o GitHub.
+
 🔹Pull
 Atualização do repositório local com mudanças do repositório remoto.
+
 
   🔷 Fluxo básico de uso
 
